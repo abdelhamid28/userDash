@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1034745202099",
+    "project_id": "easyexam-da571",
+    "storage_bucket": "easyexam-da571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034745202099:android:f37fca74e82fef862df7c6",
+        "android_client_info": {
+          "package_name": "io.easyexam.capacitor.user.bunchdevelopers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034745202099-5dr4oan0p6ivq2pva82kl2jhiogl1gqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTboUcaK93tRCXPHSc9nqDwG0EQaVaPro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034745202099-5dr4oan0p6ivq2pva82kl2jhiogl1gqm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034745202099-3fpe0ousdvf6lckfhnoi3cb4gh40v4h5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.initappz.exam.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034745202099:android:29e956afbaadff1b2df7c6",
+        "android_client_info": {
+          "package_name": "io.initappz.flutter.exam.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034745202099-5dr4oan0p6ivq2pva82kl2jhiogl1gqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTboUcaK93tRCXPHSc9nqDwG0EQaVaPro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034745202099-5dr4oan0p6ivq2pva82kl2jhiogl1gqm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034745202099-3fpe0ousdvf6lckfhnoi3cb4gh40v4h5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.initappz.exam.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
